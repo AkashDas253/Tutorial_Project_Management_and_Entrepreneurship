@@ -180,7 +180,7 @@
 
 #### [Entrepreneurship](lessons/entrepreneurship/readme.md)
 
-1. [Introduction](lessons/introduction/readme.md) [2L]
+1. [Introduction](lessons/entrepreneurship/readme.md) [2L]
    - Meaning and Concept of Entrepreneurship
    - Innovation and Entrepreneurship
    - Contributions of Entrepreneurs to Society
